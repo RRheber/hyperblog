@@ -1,7 +1,7 @@
 body
 {
     text-align: center;
-    font-family: Courier;
+    font-family: Helvetica;
     color: rgb(102, 145, 150);
     font-size: 16px;
     margin: 0;
@@ -23,7 +23,7 @@ body
 #cabecera #tagline
 {
     color: black;
-    font-style: italic;
+
     font-weight: normal;
     font-size: 0.6em;
     padding: 0 0 0 1em;
