@@ -51,6 +51,11 @@ body
 
 #post
 {
+   background-color: aqua;
+
+}
+#footer
+{
     background: white;
     padding: 1em;
 }
